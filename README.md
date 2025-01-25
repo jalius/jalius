@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently employed in the semiconductor industry, working on plasma power generators
+- 🌱 At home, I’m learning how to dial in my 3D printer for maximum speed and acceleration (500 mm/s here we come!)
+- 👯 I’m looking to collaborate on a humidity/temperature sensor reference design that can be used in home-automation and modular horticulture
+- ⚡ Fun fact:
+I learned to code in my teens to get an edge in online games with trade bots and task-automation. My first programming language was C#, because there was a plugin available for the game I was into at the time (game: RotMG, plugin: KRelay). In 2017, I made my first online money selling max-tier RotMG items for $1 a pop, doing transactions stricly in BTC (when the price was around $2000). Too bad I didn't save any of that BTC!
+- 📫 Portfolio Website: https://jalius.github.io/
 <!--
 **jalius/jalius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
