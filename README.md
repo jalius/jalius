@@ -8,7 +8,7 @@
  👯 I’m looking to collaborate on a humidity/temperature sensor for home-automation and modular horticulture: [prototype code](https://github.com/jalius/bme280_esp32_UI)
  
  ⚡ Fun fact:
-I learned to code in my teens to get an edge in online games with trade bots and task-automation. My first programming language was C#, because there was a plugin available for the game I was into at the time (game: RotMG, plugin: KRelay). In 2017, I made my first online money selling max-tier RotMG items for $1 a pop, doing transactions stricly in BTC (when the price was around $2000). Too bad I didn't save any of that BTC!
+I learned to code to get an edge in online games with trade bots and task-automation when I was in high school. My first programming language was C#, because there was a plugin available for the game RotMG, which I was obsessed with. In 2017, I was selling max-tier digital items for $1 a pop, doing transactions stricly in BTC (when the price was around $2000). Too bad I didn't save any of that BTC!
 
 📫 Portfolio Website: https://jalius.github.io/
 <!--
